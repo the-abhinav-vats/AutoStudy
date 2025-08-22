@@ -1,0 +1,17 @@
+AutoStudyCoach/
+│── main.py
+│── agent/
+│ ├── __init__.py
+│ ├── state.py
+│ ├── llm.py
+│ ├── utils.py
+│ ├── core.py
+│── ui/
+│ ├── __init__.py
+│ ├── plan_tab.py
+│ ├── quiz_tab.py
+│ ├── explain_tab.py
+│ ├── review_tab.py
+│── storage/
+│ ├── __init__.py
+│ ├── persistence.py
